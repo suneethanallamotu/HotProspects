@@ -11,6 +11,16 @@
 		B2895EED2A147F3700EC5DB0 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = B2895EEC2A147F3700EC5DB0 /* ContentView.swift */; };
 		B2895EEF2A147F3800EC5DB0 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = B2895EEE2A147F3800EC5DB0 /* Assets.xcassets */; };
 		B2895EF22A147F3800EC5DB0 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = B2895EF12A147F3800EC5DB0 /* Preview Assets.xcassets */; };
+		B2895EFA2A15914900EC5DB0 /* Extension+Sequence.swift in Sources */ = {isa = PBXBuildFile; fileRef = B2895EF92A15914900EC5DB0 /* Extension+Sequence.swift */; };
+		B2895EFD2A1596AD00EC5DB0 /* MainTabView.swift in Sources */ = {isa = PBXBuildFile; fileRef = B2895EFC2A1596AD00EC5DB0 /* MainTabView.swift */; };
+		B2895EFF2A1596BA00EC5DB0 /* ProspectsView.swift in Sources */ = {isa = PBXBuildFile; fileRef = B2895EFE2A1596BA00EC5DB0 /* ProspectsView.swift */; };
+		B2895F012A1596CB00EC5DB0 /* MeView.swift in Sources */ = {isa = PBXBuildFile; fileRef = B2895F002A1596CB00EC5DB0 /* MeView.swift */; };
+		B2895F042A159E7000EC5DB0 /* Prospect.swift in Sources */ = {isa = PBXBuildFile; fileRef = B2895F032A159E7000EC5DB0 /* Prospect.swift */; };
+		B2895F072A16E2A800EC5DB0 /* CodeScanner in Frameworks */ = {isa = PBXBuildFile; productRef = B2895F062A16E2A800EC5DB0 /* CodeScanner */; };
+		B2895F0F2A1B2AB700EC5DB0 /* Simulator Screenshot - iPhone 14 Pro - 2023-05-21 at 23.32.52.png in Resources */ = {isa = PBXBuildFile; fileRef = B2895F0B2A1B2AB700EC5DB0 /* Simulator Screenshot - iPhone 14 Pro - 2023-05-21 at 23.32.52.png */; };
+		B2895F102A1B2AB700EC5DB0 /* Simulator Screenshot - iPhone 14 Pro - 2023-05-21 at 23.33.17.png in Resources */ = {isa = PBXBuildFile; fileRef = B2895F0C2A1B2AB700EC5DB0 /* Simulator Screenshot - iPhone 14 Pro - 2023-05-21 at 23.33.17.png */; };
+		B2895F112A1B2AB700EC5DB0 /* Simulator Screenshot - iPhone 14 Pro - 2023-05-21 at 23.33.02.png in Resources */ = {isa = PBXBuildFile; fileRef = B2895F0D2A1B2AB700EC5DB0 /* Simulator Screenshot - iPhone 14 Pro - 2023-05-21 at 23.33.02.png */; };
+		B2895F122A1B2AB700EC5DB0 /* Simulator Screenshot - iPhone 14 Pro - 2023-05-21 at 23.33.34.png in Resources */ = {isa = PBXBuildFile; fileRef = B2895F0E2A1B2AB700EC5DB0 /* Simulator Screenshot - iPhone 14 Pro - 2023-05-21 at 23.33.34.png */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -19,6 +29,15 @@
 		B2895EEC2A147F3700EC5DB0 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
 		B2895EEE2A147F3800EC5DB0 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		B2895EF12A147F3800EC5DB0 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
+		B2895EF92A15914900EC5DB0 /* Extension+Sequence.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Extension+Sequence.swift"; sourceTree = "<group>"; };
+		B2895EFC2A1596AD00EC5DB0 /* MainTabView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MainTabView.swift; sourceTree = "<group>"; };
+		B2895EFE2A1596BA00EC5DB0 /* ProspectsView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ProspectsView.swift; sourceTree = "<group>"; };
+		B2895F002A1596CB00EC5DB0 /* MeView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MeView.swift; sourceTree = "<group>"; };
+		B2895F032A159E7000EC5DB0 /* Prospect.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Prospect.swift; sourceTree = "<group>"; };
+		B2895F0B2A1B2AB700EC5DB0 /* Simulator Screenshot - iPhone 14 Pro - 2023-05-21 at 23.32.52.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Simulator Screenshot - iPhone 14 Pro - 2023-05-21 at 23.32.52.png"; sourceTree = "<group>"; };
+		B2895F0C2A1B2AB700EC5DB0 /* Simulator Screenshot - iPhone 14 Pro - 2023-05-21 at 23.33.17.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Simulator Screenshot - iPhone 14 Pro - 2023-05-21 at 23.33.17.png"; sourceTree = "<group>"; };
+		B2895F0D2A1B2AB700EC5DB0 /* Simulator Screenshot - iPhone 14 Pro - 2023-05-21 at 23.33.02.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Simulator Screenshot - iPhone 14 Pro - 2023-05-21 at 23.33.02.png"; sourceTree = "<group>"; };
+		B2895F0E2A1B2AB700EC5DB0 /* Simulator Screenshot - iPhone 14 Pro - 2023-05-21 at 23.33.34.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Simulator Screenshot - iPhone 14 Pro - 2023-05-21 at 23.33.34.png"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -26,6 +45,7 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				B2895F072A16E2A800EC5DB0 /* CodeScanner in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -51,8 +71,10 @@
 		B2895EE92A147F3700EC5DB0 /* HotProspects */ = {
 			isa = PBXGroup;
 			children = (
+				B2895F022A159E6300EC5DB0 /* Models */,
+				B2895EF82A15911600EC5DB0 /* Extensions */,
 				B2895EEA2A147F3700EC5DB0 /* HotProspectsApp.swift */,
-				B2895EEC2A147F3700EC5DB0 /* ContentView.swift */,
+				B2895EFB2A15968500EC5DB0 /* Views */,
 				B2895EEE2A147F3800EC5DB0 /* Assets.xcassets */,
 				B2895EF02A147F3800EC5DB0 /* Preview Content */,
 			);
@@ -66,6 +88,46 @@
 			);
 			path = "Preview Content";
 			sourceTree = "<group>";
+		};
+		B2895EF82A15911600EC5DB0 /* Extensions */ = {
+			isa = PBXGroup;
+			children = (
+				B2895EF92A15914900EC5DB0 /* Extension+Sequence.swift */,
+			);
+			path = Extensions;
+			sourceTree = "<group>";
+		};
+		B2895EFB2A15968500EC5DB0 /* Views */ = {
+			isa = PBXGroup;
+			children = (
+				B2895EFC2A1596AD00EC5DB0 /* MainTabView.swift */,
+				B2895EEC2A147F3700EC5DB0 /* ContentView.swift */,
+				B2895EFE2A1596BA00EC5DB0 /* ProspectsView.swift */,
+				B2895F0A2A1B2AB700EC5DB0 /* HotProspectsScreens */,
+				B2895F002A1596CB00EC5DB0 /* MeView.swift */,
+			);
+			path = Views;
+			sourceTree = "<group>";
+		};
+		B2895F022A159E6300EC5DB0 /* Models */ = {
+			isa = PBXGroup;
+			children = (
+				B2895F032A159E7000EC5DB0 /* Prospect.swift */,
+			);
+			path = Models;
+			sourceTree = "<group>";
+		};
+		B2895F0A2A1B2AB700EC5DB0 /* HotProspectsScreens */ = {
+			isa = PBXGroup;
+			children = (
+				B2895F0B2A1B2AB700EC5DB0 /* Simulator Screenshot - iPhone 14 Pro - 2023-05-21 at 23.32.52.png */,
+				B2895F0C2A1B2AB700EC5DB0 /* Simulator Screenshot - iPhone 14 Pro - 2023-05-21 at 23.33.17.png */,
+				B2895F0D2A1B2AB700EC5DB0 /* Simulator Screenshot - iPhone 14 Pro - 2023-05-21 at 23.33.02.png */,
+				B2895F0E2A1B2AB700EC5DB0 /* Simulator Screenshot - iPhone 14 Pro - 2023-05-21 at 23.33.34.png */,
+			);
+			name = HotProspectsScreens;
+			path = HotProspects/HotProspectsScreens;
+			sourceTree = SOURCE_ROOT;
 		};
 /* End PBXGroup section */
 
@@ -83,6 +145,9 @@
 			dependencies = (
 			);
 			name = HotProspects;
+			packageProductDependencies = (
+				B2895F062A16E2A800EC5DB0 /* CodeScanner */,
+			);
 			productName = HotProspects;
 			productReference = B2895EE72A147F3700EC5DB0 /* HotProspects.app */;
 			productType = "com.apple.product-type.application";
@@ -111,6 +176,9 @@
 				Base,
 			);
 			mainGroup = B2895EDE2A147F3700EC5DB0;
+			packageReferences = (
+				B2895F052A16E2A700EC5DB0 /* XCRemoteSwiftPackageReference "codescanner" */,
+			);
 			productRefGroup = B2895EE82A147F3700EC5DB0 /* Products */;
 			projectDirPath = "";
 			projectRoot = "";
@@ -125,7 +193,11 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				B2895F0F2A1B2AB700EC5DB0 /* Simulator Screenshot - iPhone 14 Pro - 2023-05-21 at 23.32.52.png in Resources */,
+				B2895F112A1B2AB700EC5DB0 /* Simulator Screenshot - iPhone 14 Pro - 2023-05-21 at 23.33.02.png in Resources */,
 				B2895EF22A147F3800EC5DB0 /* Preview Assets.xcassets in Resources */,
+				B2895F122A1B2AB700EC5DB0 /* Simulator Screenshot - iPhone 14 Pro - 2023-05-21 at 23.33.34.png in Resources */,
+				B2895F102A1B2AB700EC5DB0 /* Simulator Screenshot - iPhone 14 Pro - 2023-05-21 at 23.33.17.png in Resources */,
 				B2895EEF2A147F3800EC5DB0 /* Assets.xcassets in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -137,7 +209,12 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				B2895F012A1596CB00EC5DB0 /* MeView.swift in Sources */,
+				B2895EFA2A15914900EC5DB0 /* Extension+Sequence.swift in Sources */,
 				B2895EED2A147F3700EC5DB0 /* ContentView.swift in Sources */,
+				B2895F042A159E7000EC5DB0 /* Prospect.swift in Sources */,
+				B2895EFF2A1596BA00EC5DB0 /* ProspectsView.swift in Sources */,
+				B2895EFD2A1596AD00EC5DB0 /* MainTabView.swift in Sources */,
 				B2895EEB2A147F3700EC5DB0 /* HotProspectsApp.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -267,8 +344,10 @@
 				CODE_SIGN_STYLE = Automatic;
 				CURRENT_PROJECT_VERSION = 1;
 				DEVELOPMENT_ASSET_PATHS = "\"HotProspects/Preview Content\"";
+				DEVELOPMENT_TEAM = ZG485KHF8H;
 				ENABLE_PREVIEWS = YES;
 				GENERATE_INFOPLIST_FILE = YES;
+				INFOPLIST_KEY_NSCameraUsageDescription = "This app needs to access your camera";
 				INFOPLIST_KEY_UIApplicationSceneManifest_Generation = YES;
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
 				INFOPLIST_KEY_UILaunchScreen_Generation = YES;
@@ -295,8 +374,10 @@
 				CODE_SIGN_STYLE = Automatic;
 				CURRENT_PROJECT_VERSION = 1;
 				DEVELOPMENT_ASSET_PATHS = "\"HotProspects/Preview Content\"";
+				DEVELOPMENT_TEAM = ZG485KHF8H;
 				ENABLE_PREVIEWS = YES;
 				GENERATE_INFOPLIST_FILE = YES;
+				INFOPLIST_KEY_NSCameraUsageDescription = "This app needs to access your camera";
 				INFOPLIST_KEY_UIApplicationSceneManifest_Generation = YES;
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
 				INFOPLIST_KEY_UILaunchScreen_Generation = YES;
@@ -337,6 +418,25 @@
 			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
+
+/* Begin XCRemoteSwiftPackageReference section */
+		B2895F052A16E2A700EC5DB0 /* XCRemoteSwiftPackageReference "codescanner" */ = {
+			isa = XCRemoteSwiftPackageReference;
+			repositoryURL = "https://github.com/twostraws/codescanner";
+			requirement = {
+				kind = upToNextMajorVersion;
+				minimumVersion = 2.0.0;
+			};
+		};
+/* End XCRemoteSwiftPackageReference section */
+
+/* Begin XCSwiftPackageProductDependency section */
+		B2895F062A16E2A800EC5DB0 /* CodeScanner */ = {
+			isa = XCSwiftPackageProductDependency;
+			package = B2895F052A16E2A700EC5DB0 /* XCRemoteSwiftPackageReference "codescanner" */;
+			productName = CodeScanner;
+		};
+/* End XCSwiftPackageProductDependency section */
 	};
 	rootObject = B2895EDF2A147F3700EC5DB0 /* Project object */;
 }
