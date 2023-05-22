@@ -17,10 +17,11 @@
 		B2895F012A1596CB00EC5DB0 /* MeView.swift in Sources */ = {isa = PBXBuildFile; fileRef = B2895F002A1596CB00EC5DB0 /* MeView.swift */; };
 		B2895F042A159E7000EC5DB0 /* Prospect.swift in Sources */ = {isa = PBXBuildFile; fileRef = B2895F032A159E7000EC5DB0 /* Prospect.swift */; };
 		B2895F072A16E2A800EC5DB0 /* CodeScanner in Frameworks */ = {isa = PBXBuildFile; productRef = B2895F062A16E2A800EC5DB0 /* CodeScanner */; };
-		B2895F0F2A1B2AB700EC5DB0 /* Simulator Screenshot - iPhone 14 Pro - 2023-05-21 at 23.32.52.png in Resources */ = {isa = PBXBuildFile; fileRef = B2895F0B2A1B2AB700EC5DB0 /* Simulator Screenshot - iPhone 14 Pro - 2023-05-21 at 23.32.52.png */; };
-		B2895F102A1B2AB700EC5DB0 /* Simulator Screenshot - iPhone 14 Pro - 2023-05-21 at 23.33.17.png in Resources */ = {isa = PBXBuildFile; fileRef = B2895F0C2A1B2AB700EC5DB0 /* Simulator Screenshot - iPhone 14 Pro - 2023-05-21 at 23.33.17.png */; };
-		B2895F112A1B2AB700EC5DB0 /* Simulator Screenshot - iPhone 14 Pro - 2023-05-21 at 23.33.02.png in Resources */ = {isa = PBXBuildFile; fileRef = B2895F0D2A1B2AB700EC5DB0 /* Simulator Screenshot - iPhone 14 Pro - 2023-05-21 at 23.33.02.png */; };
-		B2895F122A1B2AB700EC5DB0 /* Simulator Screenshot - iPhone 14 Pro - 2023-05-21 at 23.33.34.png in Resources */ = {isa = PBXBuildFile; fileRef = B2895F0E2A1B2AB700EC5DB0 /* Simulator Screenshot - iPhone 14 Pro - 2023-05-21 at 23.33.34.png */; };
+		B2895F0F2A1B2AB700EC5DB0 /* UnContactedPeople.png in Resources */ = {isa = PBXBuildFile; fileRef = B2895F0B2A1B2AB700EC5DB0 /* UnContactedPeople.png */; };
+		B2895F102A1B2AB700EC5DB0 /* AllContactedPeople.png in Resources */ = {isa = PBXBuildFile; fileRef = B2895F0C2A1B2AB700EC5DB0 /* AllContactedPeople.png */; };
+		B2895F112A1B2AB700EC5DB0 /* ContactedPeople.png in Resources */ = {isa = PBXBuildFile; fileRef = B2895F0D2A1B2AB700EC5DB0 /* ContactedPeople.png */; };
+		B2895F122A1B2AB700EC5DB0 /* MeView.png in Resources */ = {isa = PBXBuildFile; fileRef = B2895F0E2A1B2AB700EC5DB0 /* MeView.png */; };
+		B2895F142A1C0B6A00EC5DB0 /* Hotprospects.mp4 in Resources */ = {isa = PBXBuildFile; fileRef = B2895F132A1C0B6A00EC5DB0 /* Hotprospects.mp4 */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -34,10 +35,11 @@
 		B2895EFE2A1596BA00EC5DB0 /* ProspectsView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ProspectsView.swift; sourceTree = "<group>"; };
 		B2895F002A1596CB00EC5DB0 /* MeView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MeView.swift; sourceTree = "<group>"; };
 		B2895F032A159E7000EC5DB0 /* Prospect.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Prospect.swift; sourceTree = "<group>"; };
-		B2895F0B2A1B2AB700EC5DB0 /* Simulator Screenshot - iPhone 14 Pro - 2023-05-21 at 23.32.52.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Simulator Screenshot - iPhone 14 Pro - 2023-05-21 at 23.32.52.png"; sourceTree = "<group>"; };
-		B2895F0C2A1B2AB700EC5DB0 /* Simulator Screenshot - iPhone 14 Pro - 2023-05-21 at 23.33.17.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Simulator Screenshot - iPhone 14 Pro - 2023-05-21 at 23.33.17.png"; sourceTree = "<group>"; };
-		B2895F0D2A1B2AB700EC5DB0 /* Simulator Screenshot - iPhone 14 Pro - 2023-05-21 at 23.33.02.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Simulator Screenshot - iPhone 14 Pro - 2023-05-21 at 23.33.02.png"; sourceTree = "<group>"; };
-		B2895F0E2A1B2AB700EC5DB0 /* Simulator Screenshot - iPhone 14 Pro - 2023-05-21 at 23.33.34.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Simulator Screenshot - iPhone 14 Pro - 2023-05-21 at 23.33.34.png"; sourceTree = "<group>"; };
+		B2895F0B2A1B2AB700EC5DB0 /* UnContactedPeople.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = UnContactedPeople.png; sourceTree = "<group>"; };
+		B2895F0C2A1B2AB700EC5DB0 /* AllContactedPeople.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = AllContactedPeople.png; sourceTree = "<group>"; };
+		B2895F0D2A1B2AB700EC5DB0 /* ContactedPeople.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = ContactedPeople.png; sourceTree = "<group>"; };
+		B2895F0E2A1B2AB700EC5DB0 /* MeView.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = MeView.png; sourceTree = "<group>"; };
+		B2895F132A1C0B6A00EC5DB0 /* Hotprospects.mp4 */ = {isa = PBXFileReference; lastKnownFileType = file; path = Hotprospects.mp4; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -120,10 +122,11 @@
 		B2895F0A2A1B2AB700EC5DB0 /* HotProspectsScreens */ = {
 			isa = PBXGroup;
 			children = (
-				B2895F0B2A1B2AB700EC5DB0 /* Simulator Screenshot - iPhone 14 Pro - 2023-05-21 at 23.32.52.png */,
-				B2895F0C2A1B2AB700EC5DB0 /* Simulator Screenshot - iPhone 14 Pro - 2023-05-21 at 23.33.17.png */,
-				B2895F0D2A1B2AB700EC5DB0 /* Simulator Screenshot - iPhone 14 Pro - 2023-05-21 at 23.33.02.png */,
-				B2895F0E2A1B2AB700EC5DB0 /* Simulator Screenshot - iPhone 14 Pro - 2023-05-21 at 23.33.34.png */,
+				B2895F132A1C0B6A00EC5DB0 /* Hotprospects.mp4 */,
+				B2895F0B2A1B2AB700EC5DB0 /* UnContactedPeople.png */,
+				B2895F0C2A1B2AB700EC5DB0 /* AllContactedPeople.png */,
+				B2895F0D2A1B2AB700EC5DB0 /* ContactedPeople.png */,
+				B2895F0E2A1B2AB700EC5DB0 /* MeView.png */,
 			);
 			name = HotProspectsScreens;
 			path = HotProspects/HotProspectsScreens;
@@ -193,11 +196,12 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				B2895F0F2A1B2AB700EC5DB0 /* Simulator Screenshot - iPhone 14 Pro - 2023-05-21 at 23.32.52.png in Resources */,
-				B2895F112A1B2AB700EC5DB0 /* Simulator Screenshot - iPhone 14 Pro - 2023-05-21 at 23.33.02.png in Resources */,
+				B2895F0F2A1B2AB700EC5DB0 /* UnContactedPeople.png in Resources */,
+				B2895F112A1B2AB700EC5DB0 /* ContactedPeople.png in Resources */,
 				B2895EF22A147F3800EC5DB0 /* Preview Assets.xcassets in Resources */,
-				B2895F122A1B2AB700EC5DB0 /* Simulator Screenshot - iPhone 14 Pro - 2023-05-21 at 23.33.34.png in Resources */,
-				B2895F102A1B2AB700EC5DB0 /* Simulator Screenshot - iPhone 14 Pro - 2023-05-21 at 23.33.17.png in Resources */,
+				B2895F122A1B2AB700EC5DB0 /* MeView.png in Resources */,
+				B2895F102A1B2AB700EC5DB0 /* AllContactedPeople.png in Resources */,
+				B2895F142A1C0B6A00EC5DB0 /* Hotprospects.mp4 in Resources */,
 				B2895EEF2A147F3800EC5DB0 /* Assets.xcassets in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
