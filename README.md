@@ -15,16 +15,18 @@ Hotprospects is a SwiftUI app to track all contacts, Contacted contacts and UnCo
 ## Screenshots
 
 ### All People
-![All People](https://github.com/suneethanallamotu/HotProspects/blob/main/HotProspects/HotProspectsScreens/Simulator%20Screenshot%20-%20iPhone%2014%20Pro%20-%202023-05-21%20at%2023.33.17.png?raw=true)
+![All People](https://github.com/suneethanallamotu/HotProspects/blob/main/HotProspects/HotProspectsScreens/AllContactedPeople.png?raw=true)
 
 ### Contacted People
-![Contacted People](https://github.com/suneethanallamotu/HotProspects/blob/main/HotProspects/HotProspectsScreens/Simulator%20Screenshot%20-%20iPhone%2014%20Pro%20-%202023-05-21%20at%2023.33.02.png?raw=true)
+![Contacted People](https://github.com/suneethanallamotu/HotProspects/blob/main/HotProspects/HotProspectsScreens/ContactedPeople.png?raw=true)
 
 ### Un Contacted People
-![Un Contacted People](https://github.com/suneethanallamotu/HotProspects/blob/main/HotProspects/HotProspectsScreens/Simulator%20Screenshot%20-%20iPhone%2014%20Pro%20-%202023-05-21%20at%2023.32.52.png?raw=true)
+![Un Contacted People](https://github.com/suneethanallamotu/HotProspects/blob/main/HotProspects/HotProspectsScreens/UnContactedPeople.png?raw=true)
 
 ### Me view
-![Me Screen](https://github.com/suneethanallamotu/HotProspects/blob/main/HotProspects/HotProspectsScreens/Simulator%20Screenshot%20-%20iPhone%2014%20Pro%20-%202023-05-21%20at%2023.33.34.png?raw=true)
+![Me Screen](https://github.com/suneethanallamotu/HotProspects/blob/main/HotProspects/HotProspectsScreens/MeView.png?raw=true)
+
+
 
 
 ## Tech Stack
@@ -37,5 +39,4 @@ Hotprospects is a SwiftUI app to track all contacts, Contacted contacts and UnCo
 ## Badges
 
 [![MIT License](https://img.shields.io/badge/License-MIT-green.svg)](https://choosealicense.com/licenses/mit/)
-
 
