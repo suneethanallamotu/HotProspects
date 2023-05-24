@@ -40,3 +40,9 @@ Hotprospects is a SwiftUI app to track all contacts, Contacted contacts and UnCo
 
 [![MIT License](https://img.shields.io/badge/License-MIT-green.svg)](https://choosealicense.com/licenses/mit/)
 
+![alt_text](https://img.shields.io/badge/Swift-5.8-F05138?style=for-the-badge&logo=Swift)
+
+![alt_text](https://img.shields.io/badge/iOS-16.5-000000?style=for-the-badge&logo=iOS)
+
+![alt_text](https://img.shields.io/badge/Xcode-14.3-147EFB?style=for-the-badge&logo=Xcode)
+
